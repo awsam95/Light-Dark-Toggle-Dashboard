@@ -34,3 +34,21 @@ https://webaim.org/resources/shortcuts/nvda
 - Pressing Shift + H will navigate backwards
 - Go to Top?
 - Skip to content?
+
+Outline for video:
+
+- Accessibility overview
+- Install NVDA
+  - basic controls, Ctrl, navigating headlines and regions and down
+- SaraSoueidan.com website
+- Try to read FEM site
+- Add:
+  - title, fill in "yout name here" in footer
+  - role="contentinfo" to footer
+  - aria-label="" for platform overview and platform details
+  - Add screenreader-only h3 tags for card titles
+
+--
+
+Semantic HTML and accessibility -- https://www.youtube.com/watch?v=qSNUi7pRmWg
+Inclusive cards -- https://inclusive-components.design/cards/
