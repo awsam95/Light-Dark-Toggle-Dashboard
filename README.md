@@ -4,4 +4,3 @@ Social-Media dashboard with a dark and light theme. Coding this from scratch usi
 
 [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H)
 
-Check out the live website [here](https://codercoder-darklight-toggle.pages.dev/)!
